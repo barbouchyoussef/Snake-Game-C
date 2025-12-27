@@ -1,4 +1,7 @@
 # Snake Game – C
+[![Language](https://img.shields.io/badge/language-C-blue)](https://www.gnu.org/software/gcc/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 
 ## Description
 This project is a classic Snake game developed in C as an academic project.
