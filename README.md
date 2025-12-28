@@ -3,6 +3,24 @@
 [![Language](https://img.shields.io/badge/language-C-blue)](https://www.gnu.org/software/gcc/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+## Game
+
+![Initial Start Screen](screenshots/initial_start_screen.png)  
+_Initial screen before starting the game_
+
+![Start Screen](screenshots/start_screen.png)  
+_Main menu screen_
+
+![Gameplay](screenshots/game_play.png)  
+_During gameplay_
+
+![Loading Screen](screenshots/loading.png)  
+_Loading screen between levels or after game start_
+
+![Game Over](screenshots/game_over.png)  
+_Game over screen showing final score_
+
+
 ## Description
 
 A classic Snake game developed in C as an academic project.  
@@ -37,23 +55,6 @@ This project demonstrates:
 
 The game stores player names and scores in a local text file (`record.txt`) using file input/output operations in C.  
 This allows keeping a history of previous game sessions and tracking the highest score.
-
-## Screenshots
-
-![Initial Start Screen](screenshots/initial_start_screen.png)  
-_Initial screen before starting the game_
-
-![Start Screen](screenshots/start_screen.png)  
-_Main menu screen_
-
-![Gameplay](screenshots/game_play.png)  
-_During gameplay_
-
-![Loading Screen](screenshots/loading.png)  
-_Loading screen between levels or after game start_
-
-![Game Over](screenshots/game_over.png)  
-_Game over screen showing final score_
 
 ## Technologies
 
