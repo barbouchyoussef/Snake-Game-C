@@ -8,14 +8,14 @@
 ![Initial Start Screen](screenshots/initial_start_screen.png)  
 _Initial screen before starting the game_
 
+![Loading Screen](screenshots/loading.png)  
+_Loading screen between levels or after game start_
+
 ![Start Screen](screenshots/start_screen.png)  
 _Main menu screen_
 
 ![Gameplay](screenshots/game_play.png)  
 _During gameplay_
-
-![Loading Screen](screenshots/loading.png)  
-_Loading screen between levels or after game start_
 
 ![Game Over](screenshots/game_over.png)  
 _Game over screen showing final score_
